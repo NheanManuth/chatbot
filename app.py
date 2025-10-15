@@ -82,9 +82,9 @@ def stream_groq_completion(
 # -----------------------------
 # Streamlit App
 # -----------------------------
-st.set_page_config(page_title="Menglim Kon khmer ai", page_icon="💬", layout="centered")
+st.set_page_config(page_title="Kon khmer ai", page_icon="💬", layout="centered")
 
-st.title("💬 Menglim Kon khmer ai")
+st.title("💬Kon khmer ai")
 st.caption("General-purpose assistant with conversation memory and optional local persistence.")
 
 # Sidebar controls
